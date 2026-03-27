@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D1D1F">
+        <animate attributeName="stop-color" values="#1D1D1F;#6E6E73;#1D1D1F" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#6E6E73">
+        <animate attributeName="stop-color" values="#6E6E73;#1D1D1F;#6E6E73" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1D1D1F">
+        <animate attributeName="stop-color" values="#1D1D1F;#6E6E73;#1D1D1F" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="subtitleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#86868B">
+        <animate attributeName="stop-color" values="#86868B;#AEAEB2;#86868B" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#AEAEB2">
+        <animate attributeName="stop-color" values="#AEAEB2;#86868B;#AEAEB2" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" fill="none"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" fill="url(#shimmer)">Sena Köse</text>
+  <text x="400" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="url(#subtitleGlow)">design-driven engineer</text>
+</svg>
