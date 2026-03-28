@@ -34,7 +34,39 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1500&color=86868B&center=true&vCenter=true&width=500&lines=Clean%2C+premium+digital+experiences;Thoughtful+motion%2C+reliable+architecture;Pixel-perfect+UI+%C2%B7+every+state+handled" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1500&color=86868B&center=true&vCenter=true&width=500&lines=Clean%2C+premium+digital+experiences;Thoughtful+motion%2C+reliable+architecture;Pixel-perfect+UI+%C2%B7+every+state+handled;2nd+Place+%C2%B7+AI+for+Good+Hackathon+2026" alt="Typing SVG" />
+
+<br/>
+
+---
+
+<br/>
+
+<h2>Highlights</h2>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <br/>
+      <img width="38" src="https://api.iconify.design/lucide:medal.svg?color=%231D1D1F" />
+      <br/><br/>
+      <strong>2nd</strong>
+      <br/><br/>
+    </td>
+    <td width="580">
+      <br/>
+      <strong>AI for Good Hackathon 2026</strong>
+      &nbsp;&nbsp;<sub>Microsoft · Ubitech · March 2026</sub>
+      <br/><br/>
+      <strong>EchoWard</strong> — voice-first AI agent that protects vulnerable users (elderly, visually impaired) from online shopping scams in real time.
+      <br/><br/>
+      <sub>Microsoft Copilot Studio &nbsp;·&nbsp; Azure Speech Services &nbsp;·&nbsp; Azure AI Foundry (GPT-4o Vision)</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
