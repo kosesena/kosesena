@@ -2,15 +2,15 @@
 
 <br/>
 
-<img width="830" src="./poster-hero.svg" alt="Sena Köse — AI agents · thoughtful software. 4th-year Software Engineering student, 2nd place at the Microsoft & UBITECH AI for Good Hackathon 2026, ABAP intern at NTT DATA's Center of Excellence, Istanbul." />
+<img width="830" src="./poster-hero.png" alt="Sena Köse — AI agents · thoughtful software. 4th-year Software Engineering student, 2nd place at the Microsoft & UBITECH AI for Good Hackathon 2026, ABAP intern at NTT DATA's Center of Excellence, Istanbul." />
 
 <br/><br/>
 
 <a href="https://github.com/kosesena/echoward-ai-agent">
-  <img width="405" src="./highlight-echoward.svg" alt="EchoWard — 2nd place, AI for Good Hackathon 2026" />
+  <img width="405" src="./highlight-echoward.png" alt="EchoWard — 2nd place, AI for Good Hackathon 2026" />
 </a>
 &nbsp;
-<img width="405" src="./highlight-ntt.svg" alt="NTT DATA — ABAP Intern, Center of Excellence Istanbul, since July 2026" />
+<img width="405" src="./highlight-ntt.png" alt="NTT DATA — ABAP Intern, Center of Excellence Istanbul, since July 2026" />
 
 <br/><br/><br/>
 
@@ -19,31 +19,31 @@
 <br/>
 
 <a href="https://github.com/kosesena/echoward-ai-agent">
-  <img width="405" src="./card-echoward.svg" alt="EchoWard — voice-first AI agent against shopping scams" />
+  <img width="405" src="./card-echoward.png" alt="EchoWard — voice-first AI agent against shopping scams" />
 </a>
 &nbsp;
 <a href="https://github.com/kosesena/omr-scanner">
-  <img width="405" src="./card-omr.svg" alt="OMR Scanner — exam sheet reader with React, FastAPI and OpenCV" />
+  <img width="405" src="./card-omr.png" alt="OMR Scanner — exam sheet reader with React, FastAPI and OpenCV" />
 </a>
 
 <br/>
 
 <a href="https://github.com/kosesena/software-architecture-project">
-  <img width="405" src="./card-playlist.svg" alt="Playlist Platform — microservices with Node.js, Docker and AWS" />
+  <img width="405" src="./card-playlist.png" alt="Playlist Platform — microservices with Node.js, Docker and AWS" />
 </a>
 &nbsp;
 <a href="https://github.com/kosesena/infix-postfix-visualizer">
-  <img width="405" src="./card-notation.svg" alt="Notation Visualizer — stack animation for infix, postfix and prefix" />
+  <img width="405" src="./card-notation.png" alt="Notation Visualizer — stack animation for infix, postfix and prefix" />
 </a>
 
 <br/>
 
 <a href="https://github.com/kosesena/collatz-cipher">
-  <img width="405" src="./card-collatz.svg" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
+  <img width="405" src="./card-collatz.png" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
 </a>
 &nbsp;
 <a href="https://github.com/kosesena?tab=repositories&q=&type=source&language=jupyter+notebook">
-  <img width="405" src="./card-datamining.svg" alt="Data Mining — CART, KNN and classification studies in Python" />
+  <img width="405" src="./card-datamining.png" alt="Data Mining — CART, KNN and classification studies in Python" />
 </a>
 
 <br/><br/><br/>

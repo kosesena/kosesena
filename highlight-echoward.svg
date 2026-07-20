@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="150" viewBox="0 0 405 150">
   <defs>
     <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#E8A0A6"/>
@@ -6,13 +6,9 @@
     </linearGradient>
   </defs>
   <style>
-    :root { --line:#141416; }
-    @media (prefers-color-scheme: dark) {
-      :root { --line:#2C2C2E; }
-    }
-    .t { font-family:"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif; text-rendering:optimizeLegibility; }
+    .t { font-family:"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif; }
   </style>
-  <rect x="0.5" y="0.5" width="404" height="149" rx="26" fill="#141416" stroke="var(--line)"/>
+  <rect x="0.5" y="0.5" width="404" height="149" rx="26" fill="#141416" stroke="#2C2C2E"/>
   <rect x="28" y="24" width="79" height="22" rx="11" fill="none" stroke="url(#grad)"/>
   <text class="t" x="67.5" y="39" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="0.9" fill="#C7A9DF">2ND PLACE</text>
   <text class="t" x="28" y="68" font-size="17" font-weight="600" fill="#F5F5F7">EchoWard</text>

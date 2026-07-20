@@ -16,6 +16,7 @@ BODY      = "#B4B4BA"   # poster gövde metni
 ACCENT    = "#C7A9DF"   # küçük vurgu metinleri (soft lila)
 GRAD_A    = "#E8A0A6"   # degrade başı (gül)
 GRAD_B    = "#B39DDB"   # degrade sonu (lila)
+LINE      = "#2C2C2E"   # kart çerçevesi (koyu temada zeminden ayırır)
 
 FONT = '"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif'
 
@@ -30,9 +31,7 @@ def esc(s):
 
 def head(w, h):
     return [
-        # width/height verme: Safari onları sabit raster boyutu sayıp zoom'da
-        # bulanıklaştırıyor; sadece viewBox ile her ölçekte vektör keskinliği.
-        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
         '  <defs>',
         '    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">',
         f'      <stop offset="0" stop-color="{GRAD_A}"/>',
@@ -40,13 +39,9 @@ def head(w, h):
         '    </linearGradient>',
         '  </defs>',
         '  <style>',
-        f'    :root {{ --line:{SURFACE}; }}',  # açık temada çerçeve görünmez
-        '    @media (prefers-color-scheme: dark) {',
-        '      :root { --line:#2C2C2E; }',      # koyu temada zeminden ayrılsın
-        '    }',
-        f'    .t {{ font-family:{FONT}; text-rendering:optimizeLegibility; }}',
+        f'    .t {{ font-family:{FONT}; }}',
         '  </style>',
-        f'  <rect x="0.5" y="0.5" width="{w-1}" height="{h-1}" rx="26" fill="{SURFACE}" stroke="var(--line)"/>',
+        f'  <rect x="0.5" y="0.5" width="{w-1}" height="{h-1}" rx="26" fill="{SURFACE}" stroke="{LINE}"/>',
     ]
 
 
@@ -153,7 +148,29 @@ PROJECTS = [
      "Python · scikit-learn · pandas", None),
 ]
 
+CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+
+
+def to_png(svg_name):
+    """SVG'yi 2x çözünürlükte PNG'ye çevirir (retina'da keskin).
+
+    README PNG kullanıyor: Safari, <img> içindeki SVG metnini rasterleştirirken
+    bulanıklaştırıyor; 2x PNG her tarayıcıda aynı ve keskin görünüyor.
+    """
+    import re
+    import subprocess
+    svg = open(svg_name).read()
+    w, h = map(int, re.search(r'viewBox="0 0 (\d+) (\d+)"', svg).groups())
+    png_name = svg_name.replace(".svg", ".png")
+    subprocess.run(
+        [CHROME, "--headless=new", "--disable-gpu",
+         "--force-device-scale-factor=2", f"--window-size={w},{h}",
+         "--default-background-color=00000000",
+         f"--screenshot={png_name}", f"file://{__import__('os').path.abspath(svg_name)}"],
+        check=True, capture_output=True)
+    return png_name
+
+
 if __name__ == "__main__":
-    print("yazıldı:", poster())
-    for args in HIGHLIGHTS + PROJECTS:
-        print("yazıldı:", card(*args))
+    for name in [poster()] + [card(*args) for args in HIGHLIGHTS + PROJECTS]:
+        print("yazıldı:", name, "→", to_png(name))
