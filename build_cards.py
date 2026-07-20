@@ -30,7 +30,9 @@ def esc(s):
 
 def head(w, h):
     return [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
+        # width/height verme: Safari onları sabit raster boyutu sayıp zoom'da
+        # bulanıklaştırıyor; sadece viewBox ile her ölçekte vektör keskinliği.
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}">',
         '  <defs>',
         '    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">',
         f'      <stop offset="0" stop-color="{GRAD_A}"/>',
