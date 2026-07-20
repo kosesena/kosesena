@@ -1,0 +1,5 @@
+*.pdf
+__pycache__/
+build_pdf.py
+readme-preview.html
+.claude/launch.json

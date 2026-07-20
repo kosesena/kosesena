@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8A0A6"/>
+      <stop offset="1" stop-color="#B39DDB"/>
+    </linearGradient>
+  </defs>
+  <style>
+    :root { --line:#141416; }
+    @media (prefers-color-scheme: dark) {
+      :root { --line:#2C2C2E; }
+    }
+    .t { font-family:"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="359" rx="26" fill="#141416" stroke="var(--line)"/>
+  <text class="t" x="440.0" y="96" text-anchor="middle" font-size="56" font-weight="700" letter-spacing="-1.5" fill="url(#grad)">Sena Köse</text>
+  <text class="t" x="440.0" y="134" text-anchor="middle" font-size="16.5" fill="#9A9AA0">AI agents · thoughtful software</text>
+  <text class="t" x="440.0" y="178" text-anchor="middle" font-size="13.5" fill="#B4B4BA">4th-year Software Engineering student.</text>
+  <text class="t" x="440.0" y="202" text-anchor="middle" font-size="13.5" fill="#B4B4BA">2nd place — Microsoft &amp; UBITECH AI for Good Hackathon 2026.</text>
+  <text class="t" x="440.0" y="226" text-anchor="middle" font-size="13.5" fill="#B4B4BA">ABAP intern at NTT DATA — Center of Excellence, Istanbul.</text>
+  <line x1="90" y1="262" x2="790" y2="262" stroke="url(#grad)" stroke-width="1" opacity="0.55"/>
+  <text class="t" x="110.0" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#F5F5F7">AI agents</text>
+  <text class="t" x="110.0" y="321" text-anchor="middle" font-size="11.5" fill="#9A9AA0">that do real work</text>
+  <text class="t" x="330.0" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#F5F5F7">Data &amp; ML</text>
+  <text class="t" x="330.0" y="321" text-anchor="middle" font-size="11.5" fill="#9A9AA0">with Python</text>
+  <text class="t" x="550.0" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#F5F5F7">Web apps</text>
+  <text class="t" x="550.0" y="321" text-anchor="middle" font-size="11.5" fill="#9A9AA0">React &amp; TypeScript</text>
+  <text class="t" x="770.0" y="300" text-anchor="middle" font-size="15" font-weight="600" fill="#F5F5F7">iOS apps</text>
+  <text class="t" x="770.0" y="321" text-anchor="middle" font-size="11.5" fill="#9A9AA0">native, SwiftUI</text>
+</svg>

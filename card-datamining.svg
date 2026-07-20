@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="150" viewBox="0 0 430 150">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8A0A6"/>
+      <stop offset="1" stop-color="#B39DDB"/>
+    </linearGradient>
+  </defs>
+  <style>
+    :root { --line:#141416; }
+    @media (prefers-color-scheme: dark) {
+      :root { --line:#2C2C2E; }
+    }
+    .t { font-family:"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="429" height="149" rx="26" fill="#141416" stroke="var(--line)"/>
+  <text class="t" x="28" y="42" font-size="17" font-weight="600" fill="#F5F5F7">Data Mining</text>
+  <text class="t" x="28" y="68" font-size="12.5" fill="#9A9AA0">CART (Gini &amp; Twoing), KNN and classification studies</text>
+  <text class="t" x="28" y="87" font-size="12.5" fill="#9A9AA0">on real datasets — churn, loans, student performance.</text>
+  <text class="t" x="28" y="128" font-size="11.5" fill="#C7A9DF">Python · scikit-learn · pandas</text>
+</svg>
