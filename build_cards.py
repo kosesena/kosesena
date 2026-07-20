@@ -19,7 +19,9 @@ GRAD_B    = "#B39DDB"   # degrade sonu (lila)
 
 FONT = '"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif'
 
-CARD_W, CARD_H = 430, 150
+# README'de gösterildikleri genişlikle birebir aynı — kesirli ölçekleme
+# metni bulanıklaştırıyor (Safari), o yüzden width değerleriyle eşit tut.
+CARD_W, CARD_H = 405, 150
 
 
 def esc(s):
@@ -40,13 +42,13 @@ def head(w, h):
         '    @media (prefers-color-scheme: dark) {',
         '      :root { --line:#2C2C2E; }',      # koyu temada zeminden ayrılsın
         '    }',
-        f'    .t {{ font-family:{FONT}; }}',
+        f'    .t {{ font-family:{FONT}; text-rendering:optimizeLegibility; }}',
         '  </style>',
         f'  <rect x="0.5" y="0.5" width="{w-1}" height="{h-1}" rx="26" fill="{SURFACE}" stroke="var(--line)"/>',
     ]
 
 
-def poster(name="poster-hero.svg", w=880, h=360):
+def poster(name="poster-hero.svg", w=830, h=360):
     """Tek parça tanıtım posteri: isim, kimlik, biyografi, dört alan."""
     cx = w / 2
     p = head(w, h)
