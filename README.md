@@ -2,7 +2,7 @@
 
 <br/>
 
-<img width="830" src="./poster-hero.png" alt="Sena Köse — AI agents · thoughtful software. 4th-year Software Engineering student, 2nd place at the Microsoft & UBITECH AI for Good Hackathon 2026, ABAP intern at NTT DATA's Center of Excellence, Istanbul." />
+<img width="830" src="./poster-hero.png" alt="Sena Kose — AI agents · thoughtful software. 4th-year Software Engineering student, 2nd place at the Microsoft & UBITECH AI for Good Hackathon 2026, ABAP intern at NTT DATA's Center of Excellence, Istanbul." />
 
 <br/><br/>
 
