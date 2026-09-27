@@ -14,6 +14,20 @@
 
 <br/><br/><br/>
 
+<h3>Open source</h3>
+
+<br/>
+
+<a href="https://github.com/openai/openai-agents-python/commits?author=kosesena">
+  <img width="405" src="./card-oss-openai.png" alt="OpenAI Agents SDK — 3 merged fixes to Realtime session state, agent attribution and the voice pipeline" />
+</a>
+&nbsp;
+<a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+-user%3Akosesena&type=pullrequests">
+  <img width="405" src="./card-oss-sap.png" alt="SAP & AssemblyAI — merged fixes in SAP aas-mcp-server, SAP python-pyodata and the AssemblyAI SDK" />
+</a>
+
+<br/><br/><br/>
+
 <h3>Projects</h3>
 
 <br/>

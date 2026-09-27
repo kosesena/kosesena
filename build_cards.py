@@ -148,6 +148,18 @@ PROJECTS = [
      "Python · scikit-learn · pandas", None),
 ]
 
+OPEN_SOURCE = [
+    ("card-oss-openai.svg", "OpenAI Agents SDK",
+     ["Fixes to Realtime session state, agent attribution",
+      "and the voice pipeline — merged upstream."],
+     "Python · asyncio · openai-agents-python", "3 MERGED"),
+
+    ("card-oss-sap.svg", "SAP & AssemblyAI",
+     ["Kept credentials out of SAP's MCP server logs;",
+      "fixes in SAP pyodata and the AssemblyAI SDK."],
+     "Python · TypeScript · MCP", "3 MERGED"),
+]
+
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 
@@ -172,5 +184,5 @@ def to_png(svg_name):
 
 
 if __name__ == "__main__":
-    for name in [poster()] + [card(*args) for args in HIGHLIGHTS + PROJECTS]:
+    for name in [poster()] + [card(*args) for args in HIGHLIGHTS + OPEN_SOURCE + PROJECTS]:
         print("yazıldı:", name, "→", to_png(name))
