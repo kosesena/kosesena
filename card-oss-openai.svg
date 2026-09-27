@@ -9,10 +9,10 @@
     .t { font-family:"SF Pro Text",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif; }
   </style>
   <rect x="0.5" y="0.5" width="404" height="149" rx="26" fill="#141416" stroke="#2C2C2E"/>
-  <rect x="28" y="24" width="72" height="22" rx="11" fill="none" stroke="url(#grad)"/>
-  <text class="t" x="64.0" y="39" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="0.9" fill="#C7A9DF">3 MERGED</text>
+  <rect x="28" y="24" width="142" height="22" rx="11" fill="none" stroke="url(#grad)"/>
+  <text class="t" x="99.0" y="39" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="0.9" fill="#C7A9DF">3 MERGED · 3 FOUND</text>
   <text class="t" x="28" y="68" font-size="17" font-weight="600" fill="#F5F5F7">OpenAI Agents SDK</text>
-  <text class="t" x="28" y="94" font-size="12.5" fill="#9A9AA0">Fixes to Realtime session state, agent attribution</text>
-  <text class="t" x="28" y="113" font-size="12.5" fill="#9A9AA0">and the voice pipeline — merged upstream.</text>
+  <text class="t" x="28" y="94" font-size="12.5" fill="#9A9AA0">3 merged fixes, plus 3 bugs I found and reported</text>
+  <text class="t" x="28" y="113" font-size="12.5" fill="#9A9AA0">that were fixed upstream — Realtime and voice.</text>
   <text class="t" x="28" y="128" font-size="11.5" fill="#C7A9DF">Python · asyncio · openai-agents-python</text>
 </svg>
