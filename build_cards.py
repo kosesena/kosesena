@@ -157,7 +157,7 @@ OPEN_SOURCE = [
     ("card-oss-sap.svg", "SAP & AssemblyAI",
      ["Kept credentials out of SAP's MCP server logs;",
       "fixes in SAP pyodata and the AssemblyAI SDK."],
-     "Python · TypeScript · MCP", "3 MERGED"),
+     "Python · TypeScript · MCP", "4 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"

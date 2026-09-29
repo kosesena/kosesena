@@ -10,7 +10,7 @@
   </style>
   <rect x="0.5" y="0.5" width="404" height="149" rx="26" fill="#141416" stroke="#2C2C2E"/>
   <rect x="28" y="24" width="72" height="22" rx="11" fill="none" stroke="url(#grad)"/>
-  <text class="t" x="64.0" y="39" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="0.9" fill="#C7A9DF">3 MERGED</text>
+  <text class="t" x="64.0" y="39" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="0.9" fill="#C7A9DF">4 MERGED</text>
   <text class="t" x="28" y="68" font-size="17" font-weight="600" fill="#F5F5F7">SAP &amp; AssemblyAI</text>
   <text class="t" x="28" y="94" font-size="12.5" fill="#9A9AA0">Kept credentials out of SAP's MCP server logs;</text>
   <text class="t" x="28" y="113" font-size="12.5" fill="#9A9AA0">fixes in SAP pyodata and the AssemblyAI SDK.</text>
