@@ -122,6 +122,11 @@ PROJECTS = [
       "read back, confirmed by a spoken yes, never deleted."],
      "AssemblyAI Voice Agent · FastAPI · SAP OData", None),
 
+    ("card-cleancore.svg", "Clean Core Copilot",
+     ["IBM Bob mode that reviews legacy SAP ABAP for the cloud,",
+      "and scores its own reliability against a sealed answer key."],
+     "IBM Bob · SAP ABAP · SAP BTP", None),
+
     ("card-echoward.svg", "EchoWard",
      ["Voice-first AI agent that warns vulnerable shoppers",
       "about scam listings while they browse."],
