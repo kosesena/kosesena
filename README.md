@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://github.com/openai/openai-agents-python/commits?author=kosesena">
-  <img width="405" src="./card-oss-openai.png" alt="OpenAI Agents SDK — 3 merged fixes, plus 3 bugs found and reported that were fixed upstream (Realtime and voice)" />
+  <img width="405" src="./card-oss-openai.png" alt="OpenAI Agents SDK — 3 merged fixes, plus 4 bugs found and reported that were fixed upstream (Realtime, voice and the agent runner)" />
 </a>
 &nbsp;
 <a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+-user%3Akosesena&type=pullrequests">

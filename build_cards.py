@@ -150,9 +150,9 @@ PROJECTS = [
 
 OPEN_SOURCE = [
     ("card-oss-openai.svg", "OpenAI Agents SDK",
-     ["3 merged fixes, plus 3 bugs I found and reported",
-      "that were fixed upstream — Realtime and voice."],
-     "Python · asyncio · openai-agents-python", "3 MERGED · 3 FOUND"),
+     ["3 merged fixes, plus 4 bugs I found and reported",
+      "that were fixed upstream — Realtime, voice, runner."],
+     "Python · asyncio · openai-agents-python", "3 MERGED · 4 FOUND"),
 
     ("card-oss-sap.svg", "SAP & AssemblyAI",
      ["Kept credentials out of SAP's MCP server logs;",
