@@ -32,30 +32,36 @@
 
 <br/>
 
+<a href="https://github.com/kosesena/GlovesOn">
+  <img width="405" src="./card-gloveson.png" alt="GlovesOn — voice agent that posts goods receipts into SAP, built for the AssemblyAI Voice Agent Hackathon" />
+</a>
+&nbsp;
 <a href="https://github.com/kosesena/echoward-ai-agent">
   <img width="405" src="./card-echoward.png" alt="EchoWard — voice-first AI agent against shopping scams" />
 </a>
-&nbsp;
+
+<br/>
+
 <a href="https://github.com/kosesena/omr-scanner">
   <img width="405" src="./card-omr.png" alt="OMR Scanner — exam sheet reader with React, FastAPI and OpenCV" />
 </a>
-
-<br/>
-
+&nbsp;
 <a href="https://github.com/kosesena/software-architecture-project">
   <img width="405" src="./card-playlist.png" alt="Playlist Platform — microservices with Node.js, Docker and AWS" />
 </a>
-&nbsp;
+
+<br/>
+
 <a href="https://github.com/kosesena/infix-postfix-visualizer">
   <img width="405" src="./card-notation.png" alt="Notation Visualizer — stack animation for infix, postfix and prefix" />
+</a>
+&nbsp;
+<a href="https://github.com/kosesena/collatz-cipher">
+  <img width="405" src="./card-collatz.png" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
 </a>
 
 <br/>
 
-<a href="https://github.com/kosesena/collatz-cipher">
-  <img width="405" src="./card-collatz.png" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
-</a>
-&nbsp;
 <a href="https://github.com/kosesena?tab=repositories&q=&type=source&language=jupyter+notebook">
   <img width="405" src="./card-datamining.png" alt="Data Mining — CART, KNN and classification studies in Python" />
 </a>

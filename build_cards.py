@@ -117,6 +117,11 @@ HIGHLIGHTS = [
 ]
 
 PROJECTS = [
+    ("card-gloveson.svg", "GlovesOn",
+     ["Voice agent that posts goods receipts into SAP —",
+      "read back, confirmed by a spoken yes, never deleted."],
+     "AssemblyAI Voice Agent · FastAPI · SAP OData", None),
+
     ("card-echoward.svg", "EchoWard",
      ["Voice-first AI agent that warns vulnerable shoppers",
       "about scam listings while they browse."],
