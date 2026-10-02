@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/a2aproject/a2a-python/commits?author=kosesena">
-  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — merged fix in Google's Agent2Agent protocol SDK (Linux Foundation): malformed JSON-RPC requests no longer dump stack traces" />
+  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 2 merged error-handling fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the REST client and the JSON-RPC server" />
 </a>
 
 <br/><br/><br/>
