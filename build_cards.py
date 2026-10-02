@@ -168,6 +168,11 @@ OPEN_SOURCE = [
      ["Kept credentials out of SAP's MCP server logs;",
       "fixes in SAP pyodata and the AssemblyAI SDK."],
      "Python · TypeScript · MCP", "4 MERGED"),
+
+    ("card-oss-a2a.svg", "A2A Python SDK",
+     ["Google's Agent2Agent protocol SDK (Linux Foundation):",
+      "bad JSON-RPC requests no longer dump stack traces."],
+     "Python · JSON-RPC · a2a-python", "1 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"

@@ -26,6 +26,12 @@
   <img width="405" src="./card-oss-sap.png" alt="SAP & AssemblyAI — merged fixes in SAP aas-mcp-server, SAP python-pyodata and the AssemblyAI SDK" />
 </a>
 
+<br/>
+
+<a href="https://github.com/a2aproject/a2a-python/commits?author=kosesena">
+  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — merged fix in Google's Agent2Agent protocol SDK (Linux Foundation): malformed JSON-RPC requests no longer dump stack traces" />
+</a>
+
 <br/><br/><br/>
 
 <h3>Projects</h3>
