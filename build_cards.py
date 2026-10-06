@@ -176,8 +176,8 @@ OPEN_SOURCE = [
 
     ("card-oss-a2a.svg", "A2A Python SDK",
      ["Google's Agent2Agent protocol SDK (Linux Foundation):",
-      "fixes in the REST client, the JSON-RPC server and tests."],
-     "Python · JSON-RPC · a2a-python", "4 MERGED"),
+      "fixes in the client, the JSON-RPC server and tests."],
+     "Python · JSON-RPC · a2a-python", "5 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"

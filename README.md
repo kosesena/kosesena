@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/a2aproject/a2a-python/commits?author=kosesena">
-  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 4 merged fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the REST client, the JSON-RPC server and tests" />
+  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 5 merged fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the client, the JSON-RPC server and tests" />
 </a>
 
 <br/><br/><br/>
