@@ -23,7 +23,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+-user%3Akosesena&type=pullrequests">
-  <img width="405" src="./card-oss-sap.png" alt="SAP & AssemblyAI — merged fixes in SAP aas-mcp-server, SAP python-pyodata and the AssemblyAI SDK" />
+  <img width="405" src="./card-oss-sap.png" alt="SAP & AssemblyAI — merged fixes in SAP aas-mcp-server, SAP python-pyodata and the AssemblyAI SDK, plus a containment fix for SAP cap-js/mcp-server that the maintainer adopted and merged in his own PR" />
 </a>
 
 <br/>
