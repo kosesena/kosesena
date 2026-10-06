@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/a2aproject/a2a-python/commits?author=kosesena">
-  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 2 merged error-handling fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the REST client and the JSON-RPC server" />
+  <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 4 merged fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the REST client, the JSON-RPC server and tests" />
 </a>
 
 <br/><br/><br/>
@@ -38,40 +38,46 @@
 
 <br/>
 
+<a href="https://github.com/kosesena/dark-factory-pocketful">
+  <img width="405" src="./card-feltfive.png" alt="The Felt Five — six AI agents, five Claude and one Codex, build an app with no human help and measure their own tests, built for the WeAreDevelopers x BAND Dark Factory hackathon" />
+</a>
+&nbsp;
 <a href="https://github.com/kosesena/GlovesOn">
   <img width="405" src="./card-gloveson.png" alt="GlovesOn — voice agent that posts goods receipts into SAP, built for the AssemblyAI Voice Agent Hackathon" />
 </a>
-&nbsp;
+
+<br/>
+
 <a href="https://github.com/kosesena/clean-core-copilot">
   <img width="405" src="./card-cleancore.png" alt="Clean Core Copilot — IBM Bob mode that reviews legacy SAP ABAP for the cloud, built for the IBM Bob 2.0 Hackathon" />
 </a>
-
-<br/>
-
+&nbsp;
 <a href="https://github.com/kosesena/echoward-ai-agent">
   <img width="405" src="./card-echoward.png" alt="EchoWard — voice-first AI agent against shopping scams" />
 </a>
-&nbsp;
+
+<br/>
+
 <a href="https://github.com/kosesena/omr-scanner">
   <img width="405" src="./card-omr.png" alt="OMR Scanner — exam sheet reader with React, FastAPI and OpenCV" />
 </a>
-
-<br/>
-
+&nbsp;
 <a href="https://github.com/kosesena/software-architecture-project">
   <img width="405" src="./card-playlist.png" alt="Playlist Platform — microservices with Node.js, Docker and AWS" />
 </a>
-&nbsp;
+
+<br/>
+
 <a href="https://github.com/kosesena/infix-postfix-visualizer">
   <img width="405" src="./card-notation.png" alt="Notation Visualizer — stack animation for infix, postfix and prefix" />
+</a>
+&nbsp;
+<a href="https://github.com/kosesena/collatz-cipher">
+  <img width="405" src="./card-collatz.png" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
 </a>
 
 <br/>
 
-<a href="https://github.com/kosesena/collatz-cipher">
-  <img width="405" src="./card-collatz.png" alt="Collatz Cipher — stream cipher built on the Collatz conjecture" />
-</a>
-&nbsp;
 <a href="https://github.com/kosesena?tab=repositories&q=&type=source&language=jupyter+notebook">
   <img width="405" src="./card-datamining.png" alt="Data Mining — CART, KNN and classification studies in Python" />
 </a>

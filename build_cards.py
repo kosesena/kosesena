@@ -117,6 +117,11 @@ HIGHLIGHTS = [
 ]
 
 PROJECTS = [
+    ("card-feltfive.svg", "The Felt Five",
+     ["Six AI agents, five Claude and one Codex, build an app",
+      "with no human help and measure their own tests."],
+     "BAND · Claude Code · Codex", None),
+
     ("card-gloveson.svg", "GlovesOn",
      ["Voice agent that posts goods receipts into SAP —",
       "read back, confirmed by a spoken yes, never deleted."],
@@ -171,8 +176,8 @@ OPEN_SOURCE = [
 
     ("card-oss-a2a.svg", "A2A Python SDK",
      ["Google's Agent2Agent protocol SDK (Linux Foundation):",
-      "error-handling fixes in the REST client and server."],
-     "Python · JSON-RPC · a2a-python", "2 MERGED"),
+      "fixes in the REST client, the JSON-RPC server and tests."],
+     "Python · JSON-RPC · a2a-python", "4 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
