@@ -31,6 +31,10 @@
 <a href="https://github.com/a2aproject/a2a-python/commits?author=kosesena">
   <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 5 merged fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the client, the JSON-RPC server and tests" />
 </a>
+&nbsp;
+<a href="https://github.com/i-am-bee/beeai-framework/commits?author=kosesena">
+  <img width="405" src="./card-oss-beeai.png" alt="IBM BeeAI Framework — 2 merged pull requests: execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx) and an ACP adapter compatibility fix" />
+</a>
 
 <br/><br/><br/>
 

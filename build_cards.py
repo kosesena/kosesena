@@ -178,6 +178,11 @@ OPEN_SOURCE = [
      ["Google's Agent2Agent protocol SDK (Linux Foundation):",
       "fixes in the client, the JSON-RPC server and tests."],
      "Python · JSON-RPC · a2a-python", "5 MERGED"),
+
+    ("card-oss-beeai.svg", "IBM BeeAI Framework",
+     ["IBM's agent framework (Linux Foundation): execution",
+      "limits across five serving adapters, plus an ACP fix."],
+     "Python · ACP · MCP · beeai-framework", "2 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
