@@ -33,7 +33,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/i-am-bee/beeai-framework/commits?author=kosesena">
-  <img width="405" src="./card-oss-beeai.png" alt="IBM BeeAI Framework — 2 merged pull requests: execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx) and an ACP adapter compatibility fix" />
+  <img width="405" src="./card-oss-beeai.png" alt="IBM BeeAI Framework — 3 merged pull requests: execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx), an ACP adapter compatibility fix and a follow-up cleanup" />
 </a>
 
 <br/><br/><br/>
