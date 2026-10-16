@@ -43,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/kosesena/dark-factory-pocketful">
-  <img width="405" src="./card-feltfive.png" alt="The Felt Five — six AI agents, five Claude and one Codex, build an app with no human help and measure their own tests, built for the WeAreDevelopers x BAND Dark Factory hackathon" />
+  <img width="405" src="./card-feltfive.png" alt="The Felt Five — six AI agents, five Claude and one Codex, build an app with no human help and measure their own tests, 3rd place in the pocketful track of the WeAreDevelopers x BAND Dark Factory hackathon" />
 </a>
 &nbsp;
 <a href="https://github.com/kosesena/GlovesOn">

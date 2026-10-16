@@ -120,7 +120,7 @@ PROJECTS = [
     ("card-feltfive.svg", "The Felt Five",
      ["Six AI agents, five Claude and one Codex, build an app",
       "with no human help and measure their own tests."],
-     "BAND · Claude Code · Codex", None),
+     "BAND · Claude Code · Codex", "3RD PLACE"),
 
     ("card-gloveson.svg", "GlovesOn",
      ["Voice agent that posts goods receipts into SAP —",
