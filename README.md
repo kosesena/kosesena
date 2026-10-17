@@ -36,6 +36,12 @@
   <img width="405" src="./card-oss-beeai.png" alt="IBM BeeAI Framework — 3 merged pull requests: execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx), an ACP adapter compatibility fix and a follow-up cleanup" />
 </a>
 
+<br/>
+
+<a href="https://github.com/microsoft/ai-agents-for-beginners/commits?author=kosesena">
+  <img width="405" src="./card-oss-microsoft.png" alt="Microsoft AI Agents for Beginners — 3 merged fixes in Microsoft's open course on AI agents: a missing lesson dependency, an orphaned test and the PR workflow's permissions" />
+</a>
+
 <br/><br/><br/>
 
 <h3>Projects</h3>

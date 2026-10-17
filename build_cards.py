@@ -183,6 +183,11 @@ OPEN_SOURCE = [
      ["IBM's agent framework (Linux Foundation): execution",
       "limits across five serving adapters, plus ACP fixes."],
      "Python · ACP · MCP · beeai-framework", "3 MERGED"),
+
+    ("card-oss-microsoft.svg", "Microsoft AI Agents for Beginners",
+     ["Microsoft's open course on AI agents: a missing",
+      "lesson dependency, an orphaned test, CI permissions."],
+     "Python · GitHub Actions · ai-agents-for-beginners", "3 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
