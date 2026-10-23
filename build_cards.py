@@ -58,11 +58,12 @@ def poster(name="poster-hero.svg", w=830, h=360):
     bio = [
         "4th-year Software Engineering student.",
         "2nd place — Microsoft & UBITECH AI for Good Hackathon 2026.",
+        "3rd place — WeAreDevelopers × BAND Dark Factory Hackathon 2026.",
         "ABAP intern at NTT DATA — Center of Excellence, Istanbul.",
     ]
     for i, line in enumerate(bio):
         p.append(
-            f'  <text class="t" x="{cx}" y="{178 + i*24}" text-anchor="middle" '
+            f'  <text class="t" x="{cx}" y="{172 + i*22}" text-anchor="middle" '
             f'font-size="13.5" fill="{BODY}">{esc(line)}</text>'
         )
     p.append(f'  <line x1="90" y1="262" x2="{w-90}" y2="262" stroke="url(#grad)" stroke-width="1" opacity="0.55"/>')
