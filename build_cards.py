@@ -171,9 +171,9 @@ OPEN_SOURCE = [
      "Python · asyncio · openai-agents-python", "3 MERGED · 4 FOUND"),
 
     ("card-oss-sap.svg", "SAP & AssemblyAI",
-     ["SAP's AAS MCP server: MCP 2 / FastMCP 4 upgrade, secrets",
-      "out of logs; fixes in SAP pyodata, CAP MCP, AssemblyAI SDK."],
-     "Python · TypeScript · MCP", "5 MERGED · 1 ADOPTED"),
+     ["SAP's AAS MCP server: MCP 2 upgrade, new components;",
+      "fixes in SAP pyodata, CAP MCP and the AssemblyAI SDK."],
+     "Python · TypeScript · MCP", "9 MERGED · 1 ADOPTED"),
 
     ("card-oss-a2a.svg", "A2A Python SDK",
      ["Google's Agent2Agent protocol SDK (Linux Foundation):",
