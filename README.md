@@ -22,8 +22,8 @@
   <img width="405" src="./card-oss-openai.png" alt="OpenAI Agents SDK — 3 merged fixes, plus 4 bugs found and reported that were fixed upstream (Realtime, voice and the agent runner)" />
 </a>
 &nbsp;
-<a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+-user%3Akosesena&type=pullrequests">
-  <img width="405" src="./card-oss-sap.png" alt="SAP & AssemblyAI — 9 merged pull requests in SAP aas-mcp-server (incl. the MCP 2 / FastMCP 4 upgrade and the Concept Description and AAS Discovery components), SAP python-pyodata and the AssemblyAI SDK, plus a containment fix for SAP cap-js/mcp-server that the maintainer adopted and merged in his own PR" />
+<a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+org%3ASAP&type=pullrequests">
+  <img width="405" src="./card-oss-sap.png" alt="SAP — 8 merged pull requests in SAP aas-mcp-server (incl. the MCP 2 / FastMCP 4 upgrade and the Concept Description and AAS Discovery components) and SAP python-pyodata, plus a containment fix for SAP cap-js/mcp-server that the maintainer adopted and merged in his own PR" />
 </a>
 
 <br/>
@@ -40,6 +40,10 @@
 
 <a href="https://github.com/microsoft/ai-agents-for-beginners/commits?author=kosesena">
   <img width="405" src="./card-oss-microsoft.png" alt="Microsoft AI Agents for Beginners — 3 merged fixes in Microsoft's open course on AI agents: a missing lesson dependency, an orphaned test and the PR workflow's permissions" />
+</a>
+&nbsp;
+<a href="https://github.com/AssemblyAI/assemblyai-node-sdk/pull/183">
+  <img width="405" src="./card-oss-assemblyai.png" alt="AssemblyAI Node SDK — 1 merged fix: helper types exported from the package root, so TypeScript projects can emit declarations for SDK types" />
 </a>
 
 <br/><br/><br/>

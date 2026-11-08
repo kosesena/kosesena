@@ -170,10 +170,10 @@ OPEN_SOURCE = [
       "that were fixed upstream — Realtime, voice, runner."],
      "Python · asyncio · openai-agents-python", "3 MERGED · 4 FOUND"),
 
-    ("card-oss-sap.svg", "SAP & AssemblyAI",
-     ["SAP's AAS MCP server: MCP 2 upgrade, new components;",
-      "fixes in SAP pyodata, CAP MCP and the AssemblyAI SDK."],
-     "Python · TypeScript · MCP", "9 MERGED · 1 ADOPTED"),
+    ("card-oss-sap.svg", "SAP",
+     ["AAS MCP server: MCP 2 upgrade, new components, secrets",
+      "out of logs; fixes in python-pyodata and CAP MCP."],
+     "Python · TypeScript · MCP", "8 MERGED · 1 ADOPTED"),
 
     ("card-oss-a2a.svg", "A2A Python SDK",
      ["Google's Agent2Agent protocol SDK (Linux Foundation):",
@@ -189,6 +189,11 @@ OPEN_SOURCE = [
      ["Microsoft's open course on AI agents: a missing",
       "lesson dependency, an orphaned test, CI permissions."],
      "Python · GitHub Actions · ai-agents-for-beginners", "3 MERGED"),
+
+    ("card-oss-assemblyai.svg", "AssemblyAI Node SDK",
+     ["Exported the SDK's helper types from the package root,",
+      "fixing declaration builds in TypeScript projects."],
+     "TypeScript · assemblyai-node-sdk", "1 MERGED"),
 ]
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
