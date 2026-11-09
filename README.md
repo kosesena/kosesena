@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/posts/ubitech-hackathon-microsoft-ugcPost-7444633301572755456-ABlc/">
+<a href="https://www.linkedin.com/posts/cuneytbatmaz_aiforgood-microsoft-technology-ugcPost-7473715415312031745-gt8O/">
   <img width="405" src="./highlight-echoward.png" alt="EchoWard — 2nd place, AI for Good Hackathon 2026" />
 </a>
 &nbsp;
