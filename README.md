@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/kosesena/echoward-ai-agent">
+<a href="https://www.linkedin.com/posts/ubitech-hackathon-microsoft-ugcPost-7444633301572755456-ABlc/">
   <img width="405" src="./highlight-echoward.png" alt="EchoWard — 2nd place, AI for Good Hackathon 2026" />
 </a>
 &nbsp;
