@@ -180,10 +180,10 @@ OPEN_SOURCE = [
       "fixes in the client, the JSON-RPC server and tests."],
      "Python · JSON-RPC · a2a-python", "5 MERGED"),
 
-    ("card-oss-beeai.svg", "IBM BeeAI Framework",
-     ["IBM's agent framework (Linux Foundation): execution",
-      "limits across five serving adapters, plus ACP fixes."],
-     "Python · ACP · MCP · beeai-framework", "3 MERGED"),
+    ("card-oss-beeai.svg", "IBM",
+     ["BeeAI framework: execution limits across five serving",
+      "adapters and ACP fixes; A2A task states in ContextForge."],
+     "Python · ACP · A2A · MCP", "4 MERGED"),
 
     ("card-oss-microsoft.svg", "Microsoft AI Agents for Beginners",
      ["Microsoft's open course on AI agents: a missing",

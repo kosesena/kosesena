@@ -32,8 +32,8 @@
   <img width="405" src="./card-oss-a2a.png" alt="A2A Python SDK — 5 merged fixes in Google's Agent2Agent protocol SDK (Linux Foundation), in the client, the JSON-RPC server and tests" />
 </a>
 &nbsp;
-<a href="https://github.com/i-am-bee/beeai-framework/commits?author=kosesena">
-  <img width="405" src="./card-oss-beeai.png" alt="IBM BeeAI Framework — 3 merged pull requests: execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx), an ACP adapter compatibility fix and a follow-up cleanup" />
+<a href="https://github.com/search?q=author%3Akosesena+is%3Apr+is%3Amerged+repo%3Ai-am-bee%2Fbeeai-framework+repo%3AIBM%2Fmcp-context-forge&type=pullrequests">
+  <img width="405" src="./card-oss-beeai.png" alt="IBM — 4 merged pull requests: in the BeeAI Framework, execution limits forwarded across five serving adapters (A2A, ACP, MCP, OpenAI, watsonx), an ACP adapter compatibility fix and a follow-up cleanup; in ContextForge (mcp-context-forge), A2A v0.3 task states emitted with the spec's hyphenated spelling" />
 </a>
 
 <br/>
